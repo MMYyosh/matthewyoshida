@@ -1,2 +1,2 @@
 # matthewyoshida
-Projects done by yours truly
+Summation of projects completed by Matthew Yoshida.
