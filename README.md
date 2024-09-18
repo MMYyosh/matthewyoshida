@@ -1,2 +1,3 @@
-Gabriel Gray, gg29768, gabriel.m.gray@gmail.com <br />
-Matthew Yoshida, my7544, matthewyoshida@utexas.edu
+# matthewyoshida
+Summation of projects completed by Matthew Yoshida.
+Here is a link to my game: https://udesg.itch.io/team-13-nine-lives-redemption-the-noodle-saga
